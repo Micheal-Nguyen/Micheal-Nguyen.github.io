@@ -25,7 +25,8 @@ projects:
   exclude:
     archived: false
     forks: true
-    projects:
+    projects: 
+      - gitdemo
     # - repo-name
 
 social_media:
@@ -46,6 +47,7 @@ social_media:
   website: http://micheal-nguyen.github.io
   # youtube: your_username
   github: Micheal-Nguyen
+  
 
 topics:
   - name: CSS
@@ -57,3 +59,10 @@ topics:
   - name: Sass
     web_url: https://github.com/topics/sass
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+
+group-projects:
+  - name: Taskzilla
+    web_url: https://github.com/CMPUT301W18T05/Taskzilla
+
+  - name: Responsible AI Design Assistant
+    web_url: https://www.youtube.com/watch?v=pEHZ_M55MK8
